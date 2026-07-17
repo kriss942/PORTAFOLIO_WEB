@@ -60,6 +60,9 @@ export const skillsData = [
   { name: 'Git y GitHub', icon: '🔧' },
   { name: 'SQL', icon: '🗄️' },
   { name: 'Java', icon: '☕' },
+  { name: 'Docker', icon: '🐳' },
+  { name: 'Linux', icon: '🐧' },
+  { name: 'Trabajo en equipo', icon: '🤝' },
 ]
 
 // ----------------------------------------------------------------------------
