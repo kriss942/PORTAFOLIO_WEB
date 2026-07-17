@@ -65,7 +65,7 @@ export default function InstallPWA() {
         <span className="text-2xl">📲</span>
         <div className="flex-1">
           <p className="text-sm font-semibold text-slate-900 dark:text-white">
-            Instala este portafolio en tu dispositivo
+            Instala
           </p>
           <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">
             Accede más rápido, incluso sin conexión.
